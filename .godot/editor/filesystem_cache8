@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1705446347
+icon.svg::CompressedTexture2D::3603131581920590339::1702464855::1702464871::1::::<><>::
+map.png::CompressedTexture2D::2701496591724155131::1705446347::1705446349::1::::<><>::
+placeholder title screen.jpg::CompressedTexture2D::4133921967224103746::1705444602::1705445440::1::::<><>::
+Menu.gd::GDScript::-1::1705446174::0::1::::<>Node<>::
+Options.gd::GDScript::-1::1705445740::0::1::::<>Node<>::
+::res://master/::1705446300
+node_2d.tscn::PackedScene::1754558491899998252::1705446300::0::1::::<><>::uid://by5rdc835ecdu::::res://placeholder title screen.jpg<>res://Menu.gd
+Quit button script.gd::GDScript::-1::1705445959::0::1::::<>Button<>::
