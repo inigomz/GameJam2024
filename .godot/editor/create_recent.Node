@@ -1,5 +1,6 @@
-CanvasModulate
 Control
-Node
 Button
 VBoxContainer
+AudioStreamPlayer
+CanvasModulate
+Node
