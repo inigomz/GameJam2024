@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://cwphbooo08fvt"]
+
+[ext_resource type="Texture2D" uid="uid://bsy1nb7y6d2u5" path="res://spider base.png" id="1_gs7jp"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_dqvnd"]
+size = Vector2(1410, 2025)
+
+[node name="Player" type="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(52, -1022)
+scale = Vector2(1.026, 1.01239)
+texture = ExtResource("1_gs7jp")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(18, -1022.5)
+shape = SubResource("RectangleShape2D_dqvnd")

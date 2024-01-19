@@ -1,11 +1,15 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1705449062
-icon.svg::CompressedTexture2D::3603131581920590339::1702464855::1702464871::1::::<><>::
-map.png::CompressedTexture2D::2701496591724155131::1705446347::1705446349::1::::<><>::
-Menu.gd::GDScript::-1::1705446174::0::1::::<>Node<>::
-Options.gd::GDScript::-1::1705445740::0::1::::<>Node<>::
-placeholder title screen.jpg::CompressedTexture2D::4133921967224103746::1705444602::1705445440::1::::<><>::
-this unreleased track is a W but im never going to release it [inigo.z edit].wav::AudioStreamWAV::3910981698164689224::1705449062::1705449063::1::::<><>::
-::res://master/::1705448850
-node_2d.tscn::PackedScene::1754558491899998252::1705448850::0::1::::<><>::uid://by5rdc835ecdu::::res://placeholder title screen.jpg<>res://Menu.gd
-Quit button script.gd::GDScript::-1::1705445959::0::1::::<>Button<>::
+::res://::1705653677
+icon.svg::CompressedTexture2D::3603131581920590339::1705639676::1705647638::1::::<><>::
+map.png::CompressedTexture2D::2701496591724155131::1705639676::1705639676::1::::<><>::
+Menu.gd::GDScript::-1::1705639676::0::1::::<>Node<>::
+Options.gd::GDScript::-1::1705639676::0::1::::<>Node<>::
+placeholder title screen.jpg::CompressedTexture2D::4133921967224103746::1705639676::1705639676::1::::<><>::
+spider base.png::CompressedTexture2D::3700966895496928186::1705653677::1705653815::1::::<><>::
+spiderForNow.png::CompressedTexture2D::8014361631608930446::1705653388::1705653391::1::::<><>::
+this unreleased track is a W but im never going to release it [inigo.z edit].wav::AudioStreamWAV::3910981698164689224::1705639676::1705639676::1::::<><>::
+::res://master/::1705649757
+node_2d.tscn::PackedScene::1754558491899998252::1705649757::0::1::::<><>::uid://by5rdc835ecdu::::res://placeholder title screen.jpg<>res://Menu.gd<>uid://bvyrkdr4hrqya::::res://this unreleased track is a W but im never going to release it [inigo.z edit].wav
+Quit button script.gd::GDScript::-1::1705639676::0::1::::<>Button<>::
+::res://scenes/::1705650045
+world.tscn::PackedScene::4298552345243510019::1705650045::0::1::::<><>::
