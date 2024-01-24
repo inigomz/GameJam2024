@@ -11,7 +11,7 @@
 [ext_resource type="Texture2D" uid="uid://nqel6px5tydq" path="res://spider side walk frames/frames/spidersidewalk0007.png" id="8_l01em"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_dqvnd"]
-size = Vector2(1689, 653.5)
+size = Vector2(1621, 666)
 
 [sub_resource type="Animation" id="Animation_ocrxy"]
 resource_name = "crawling"
@@ -56,14 +56,14 @@ animations = [{
 }],
 "loop": true,
 "name": &"walking",
-"speed": 7.0
+"speed": 60.0
 }]
 
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1_dgmit")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(4, -329)
+position = Vector2(42.5, -334)
 shape = SubResource("RectangleShape2D_dqvnd")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
@@ -75,6 +75,6 @@ libraries = {
 position = Vector2(11, -352)
 sprite_frames = SubResource("SpriteFrames_geqh0")
 animation = &"walking"
-frame = 1
-frame_progress = 0.179834
+frame = 7
+frame_progress = 0.737987
 speed_scale = 0.5
