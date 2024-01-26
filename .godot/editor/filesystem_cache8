@@ -1,30 +1,44 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1706136569
+::res://::1706265176
+export_presets.cfg::TextFile::-1::1706262674::0::1::::<><>::
 icon.svg::CompressedTexture2D::3603131581920590339::1702464855::1706132941::1::::<><>::
-map.png::CompressedTexture2D::2701496591724155131::1705446347::1705446349::1::::<><>::
-Menu.gd::GDScript::-1::1705446174::0::1::::<>Node<>::
-Options.gd::GDScript::-1::1705445740::0::1::::<>Node<>::
-placeholder title screen.jpg::CompressedTexture2D::4133921967224103746::1705444602::1705445440::1::::<><>::
-spider base.png::CompressedTexture2D::3700966895496928186::1706131882::1706131882::1::::<><>::
-spider side base.png::CompressedTexture2D::8721995143674741429::1706131882::1706131882::1::::<><>::
-this unreleased track is a W but im never going to release it [inigo.z edit].wav::AudioStreamWAV::3910981698164689224::1705449062::1705449063::1::::<><>::
-weaver.png::CompressedTexture2D::5983302987451588387::1706136569::1706136570::1::::<><>::
-::res://master/::1706134011
-Quit button script.gd::GDScript::-1::1705445959::0::1::::<>Button<>::
-::res://scenes/::1706136454
+::res://Map/::1706151961
+spider map background.png::CompressedTexture2D::466586531220569512::1706151945::1706151961::1::::<><>::
+spider map collision layer.png::CompressedTexture2D::8059084212048149204::1706151945::1706151960::1::::<><>::
+spider map complete.png::CompressedTexture2D::9062067502689090805::1706151945::1706151957::1::::<><>::
+spider map far landscape.png::CompressedTexture2D::4300014169793404369::1706151945::1706151948::1::::<><>::
+spider map foreground.png::CompressedTexture2D::7599338053297394534::1706151945::1706151953::1::::<><>::
+::res://master/::1706262658
+::res://master/Assets/::1706305883
+weaver.png::CompressedTexture2D::5983302987451588387::1706136569::1706261144::1::::<><>::
+weaver_cover_art.png::CompressedTexture2D::8888117206587514058::1706305883::1706305885::1::::<><>::
+::res://master/Assets/Spider/::1706305875
+spider base.png::CompressedTexture2D::3700966895496928186::1706131882::1706261116::1::::<><>::
+spider side base.png::CompressedTexture2D::8721995143674741429::1706131882::1706261116::1::::<><>::
+weaver_cover_art.png::CompressedTexture2D::240845569313224788::1706305873::1706305875::1::::<><>::
+::res://master/Assets/Spider/spider side walk frames/::1706261109
+::res://master/Assets/Spider/spider side walk frames/frames/::1706266460
+spidersidewalk0000.png::CompressedTexture2D::2894859715208787764::1706131882::1706261116::1::::<><>::
+spidersidewalk0001.png::CompressedTexture2D::7516053634969706713::1706131882::1706261116::1::::<><>::
+spidersidewalk0002.png::CompressedTexture2D::7996253832402293586::1706131882::1706261116::1::::<><>::
+spidersidewalk0003.png::CompressedTexture2D::3357374712073992634::1706131882::1706261116::1::::<><>::
+spidersidewalk0004.png::CompressedTexture2D::6232858856011783632::1706131882::1706261116::1::::<><>::
+spidersidewalk0005.png::CompressedTexture2D::1179490364751667372::1706131882::1706261116::1::::<><>::
+spidersidewalk0006.png::CompressedTexture2D::1538350486016097798::1706131882::1706261116::1::::<><>::
+spidersidewalk0007.png::CompressedTexture2D::945749175545197294::1706131882::1706261116::1::::<><>::
+Weaver_2.mp3::AudioStreamMP3::6498781980578926526::1706266460::1706266460::1::::<><>::
+::res://master/Audio/::1706266472
+default_bus_layout.tres::AudioBusLayout::2894164173117043341::1706139005::0::1::::<><>::
+Weaver_2.mp3::AudioStreamMP3::8459326583974393677::1706266472::1706266472::1::::<><>::
+::res://master/exe/::1706262658
+::res://master/Scripts/::1706265352
 AnimatedSprite2D.gd::GDScript::-1::1706131882::0::1::::<>AnimatedSprite2D<>::
-MainMenu.tscn::PackedScene::1754558491899998252::1706136454::0::1::::<><>::res://Menu.gd<>uid://by5rdc835ecdu::::res://placeholder title screen.jpg<>uid://bvyrkdr4hrqya::::res://this unreleased track is a W but im never going to release it [inigo.z edit].wav
-player.tscn::PackedScene::6348389156102053065::1706136454::0::1::::<><>::uid://bhij6fsxcc52w::::res://spider side walk frames/frames/spidersidewalk0000.png<>res://scripts/player.gd<>uid://dfc3km45j0ivx::::res://spider side walk frames/frames/spidersidewalk0001.png<>uid://dl6peq88hugf7::::res://spider side walk frames/frames/spidersidewalk0002.png<>uid://bn3lqap06m7pm::::res://spider side walk frames/frames/spidersidewalk0003.png<>uid://cu2ijlt33hu7i::::res://spider side walk frames/frames/spidersidewalk0004.png<>uid://q2mbfjvbyqjk::::res://spider side walk frames/frames/spidersidewalk0005.png<>uid://v6gn4mfqvjxm::::res://spider side walk frames/frames/spidersidewalk0006.png<>uid://nqel6px5tydq::::res://spider side walk frames/frames/spidersidewalk0007.png
-world.tscn::PackedScene::4298552345243510019::1706136454::0::1::::<><>::uid://cwphbooo08fvt::::res://scenes/player.tscn
-::res://scripts/::1706131882
-player.gd::GDScript::-1::1706131882::0::1::::<>CharacterBody2D<>::
-::res://spider side walk frames/::1706131882
-::res://spider side walk frames/frames/::1706131882
-spidersidewalk0000.png::CompressedTexture2D::2894859715208787764::1706131882::1706131882::1::::<><>::
-spidersidewalk0001.png::CompressedTexture2D::7516053634969706713::1706131882::1706131882::1::::<><>::
-spidersidewalk0002.png::CompressedTexture2D::7996253832402293586::1706131882::1706131882::1::::<><>::
-spidersidewalk0003.png::CompressedTexture2D::3357374712073992634::1706131882::1706131882::1::::<><>::
-spidersidewalk0004.png::CompressedTexture2D::6232858856011783632::1706131882::1706131882::1::::<><>::
-spidersidewalk0005.png::CompressedTexture2D::1179490364751667372::1706131882::1706131882::1::::<><>::
-spidersidewalk0006.png::CompressedTexture2D::1538350486016097798::1706131882::1706131882::1::::<><>::
-spidersidewalk0007.png::CompressedTexture2D::945749175545197294::1706131882::1706131882::1::::<><>::
+Menu.gd::GDScript::-1::1706263084::0::1::::<>Node<>::
+Options.gd::GDScript::-1::1705445740::0::1::::<>Node<>::
+player.gd::GDScript::-1::1706265352::0::1::::<>CharacterBody2D<>::
+Quit button script.gd::GDScript::-1::1705445959::0::1::::<>Button<>::
+::res://scenes/::1706305764
+MainMenu.tscn::PackedScene::1754558491899998252::1706305764::0::1::::<><>::res://master/Scripts/Menu.gd<>uid://crimejxs4hsgh::::res://master/Assets/weaver.png<>uid://dsr04xdbyc5oj::::res://master/Audio/Weaver_2.mp3
+Map.tscn::PackedScene::4939284640233779141::1706305764::0::1::::<><>::uid://d2dy6srwbkatp::::res://Map/spider map complete.png
+player.tscn::PackedScene::6348389156102053065::1706305764::0::1::::<><>::res://master/Scripts/player.gd<>uid://bhij6fsxcc52w::::res://master/Assets/Spider/spider side walk frames/frames/spidersidewalk0000.png<>uid://dfc3km45j0ivx::::res://master/Assets/Spider/spider side walk frames/frames/spidersidewalk0001.png<>uid://dl6peq88hugf7::::res://master/Assets/Spider/spider side walk frames/frames/spidersidewalk0002.png<>uid://bn3lqap06m7pm::::res://master/Assets/Spider/spider side walk frames/frames/spidersidewalk0003.png<>uid://cu2ijlt33hu7i::::res://master/Assets/Spider/spider side walk frames/frames/spidersidewalk0004.png<>uid://q2mbfjvbyqjk::::res://master/Assets/Spider/spider side walk frames/frames/spidersidewalk0005.png<>uid://v6gn4mfqvjxm::::res://master/Assets/Spider/spider side walk frames/frames/spidersidewalk0006.png<>uid://nqel6px5tydq::::res://master/Assets/Spider/spider side walk frames/frames/spidersidewalk0007.png
+world.tscn::PackedScene::4298552345243510019::1706305764::0::1::::<><>::uid://cwphbooo08fvt::::res://scenes/player.tscn<>uid://ccmvkcvfpvimv::::res://scenes/Map.tscn

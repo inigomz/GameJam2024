@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cyub8weued15c"
+path="res://.godot/imported/Weaver_2.mp3-90d615fe91ef550cf732413c48943322.mp3str"
+
+[deps]
+
+source_file="res://master/Assets/Spider/spider side walk frames/frames/Weaver_2.mp3"
+dest_files=["res://.godot/imported/Weaver_2.mp3-90d615fe91ef550cf732413c48943322.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
